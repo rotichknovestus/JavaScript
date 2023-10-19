@@ -70,7 +70,6 @@
                 console.log(fName2)
 
 
-
             //Question 4:
                 //Create a variable isStudent and assign a boolean value to it to indicate if you are a student (true or false). Display the value of isStudent using console.log().
                 
