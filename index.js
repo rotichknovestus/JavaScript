@@ -53,10 +53,17 @@
             //Question 2:
                 //Create two variables, x and y, and assign them values of 10 and 5, respectively. Calculate and display the sum of x and y using console.log().
 
+<<<<<<< HEAD
                 let x1 = 10;
                 let y = 5;
 
                 let z = (x1 + y);
+=======
+                let x = 10;
+                let y = 5;
+
+                let z = (x + y);
+>>>>>>> 063794f2fba7692d12ff3db6d4936ba76221be3e
 
                 console.log(z);
 
@@ -70,7 +77,10 @@
                 console.log(fName2)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 063794f2fba7692d12ff3db6d4936ba76221be3e
             //Question 4:
                 //Create a variable isStudent and assign a boolean value to it to indicate if you are a student (true or false). Display the value of isStudent using console.log().
                 
@@ -160,6 +170,7 @@
                  console.log(totals)
 
 
+<<<<<<< HEAD
     //!Task Of Monday 21st oct 2023.
 
 //*What are the final values of all variables a, b, c and d after the code below?
@@ -490,3 +501,11 @@ For n = 10 the result will be 2,3,5,7.
 P.S. The code should work for any n, not be hard-tuned for any fixed value.*/
 
 
+=======
+
+
+
+
+
+// Control structures
+>>>>>>> 063794f2fba7692d12ff3db6d4936ba76221be3e
